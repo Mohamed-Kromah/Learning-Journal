@@ -4,4 +4,8 @@
 - Installed the latest Docker Compose in orde to run multi container applications
 - Forked and cloned this Github repository: josephmachado/data_engineering_for_beginners_code in order to follow along with a data engineering course
 - Built custom Docker Image. The custom image contains regular data engineering tools.
+### 8th May 2026
+- Created a virtual environments folder in ~ as of best practice for WSL. In the future the venv is used as a separate environment for this projects modules.
+- Installed modules: duckdb,pyspark and Jupyter Labs
+- Ran a Jupyter server on the localhost
 - 
