@@ -8,4 +8,8 @@
 - Created a virtual environments folder in ~ as of best practice for WSL. In the future the venv is used as a separate environment for this projects modules.
 - Installed modules: duckdb,pyspark and Jupyter Labs
 - Ran a Jupyter server on the localhost
-- 
+### 9th May 2026
+- Update from Java 11 to Java 17 in order to resolve conflicts between PySpark and Java
+- Replaced Iceberg with Parquet for local Data Engineering development
+- Installed module: ipython-sql for development in local Jupyter Notebook
+-  
