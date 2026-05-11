@@ -13,3 +13,6 @@
 - Replaced Iceberg with Parquet for local Data Engineering development
 - Installed module: ipython-sql for development in local Jupyter Notebook
 -  
+### 11th may 2026
+  - Installed dotnet10sdk, c# developer kit and Visual Studio Code as necesary components for dotnet development
+  - Created a .net project locally. This is my first .net webapp called MyConsoleApp
