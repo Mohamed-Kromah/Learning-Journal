@@ -15,4 +15,6 @@
 -  
 ### 11th may 2026
   - Installed dotnet10sdk, c# developer kit and Visual Studio Code as necesary components for dotnet development
-  - Created a .net project locally. This is my first .net webapp called MyConsoleApp
+  - Created a .net project locally. This is my first .net consoleapp called MyConsoleApp
+  - Created a Blazor webapp the app count how many times a user clicks a button.
+  -  
